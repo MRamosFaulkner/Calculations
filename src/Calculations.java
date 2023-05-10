@@ -21,7 +21,7 @@ public class Calculations {
         int multiplyNum = firstNum * secondNum;
         System.out.println(firstNum + " * " + secondNum + " = " + multiplyNum);
 
-        int divideNum = firstNum / secondNum;
+        double divideNum = firstNum / secondNum;
         System.out.println(firstNum + " / " + secondNum + " = " + divideNum);
 
         int remainderNum = firstNum % secondNum;
